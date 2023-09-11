@@ -20,5 +20,5 @@ from app2.views import hola
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('saludo/',hola),
+    path('saludo/',hogit chela),
 ]
